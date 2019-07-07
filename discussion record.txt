@@ -1,0 +1,5 @@
+Topic to discuss
+  - baysian
+  - generative model
+  - intrinsic dimension
+ 
