@@ -1,5 +1,8 @@
 Topic to discuss
-  - baysian
-  - generative model
+  - baysian: probability based on events already happened.
+  - generative model:
   - intrinsic dimension
+  - regression: how is regulated regression regulated? what is lasso?
+  - let's have a look on how we solve programming assignment 5 differently!
+  
  
