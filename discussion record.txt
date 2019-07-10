@@ -1,5 +1,21 @@
+Let's make it a cheat sheet for Machine Learning!
+
 Topic to discuss
-  - baysian
-  - generative model
+  - baysian: probability based on events already happened.
+  - generative model:
   - intrinsic dimension
+  - regression: how is regulated regression regulated? what is lasso?
+  - what is perceptron? is it similar to other neural network framework? or is it unique in someway?
+  -
+  
+ 
+  - What is the difference between gradient boosted trees and random forest? Which is more approprite for what kind of situations?
+  - What is entropy? Briefly go through different ways of measuring error rate. Gini...
+ 
+ 
+ Meetup 2019.7.14
+ 
+1. Sharing: Programming Assignment 5 solution
+2. PCA Revisited: Programming assignment 4, notebook 6, how could we tear apart spatial and temporal effects?
+3. light on bays therom and conditional probability. Take the example of tossing a dice.
  
