@@ -6,7 +6,7 @@ Topic to discuss
   - intrinsic dimension
   - regression: how is regulated regression regulated? what is lasso?
   - what is perceptron? is it similar to other neural network framework? or is it unique in someway?
-  -
+  - from perceptron to svm . . .
   
  
   - What is the difference between gradient boosted trees and random forest? Which is more approprite for what kind of situations?
